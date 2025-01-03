@@ -239,10 +239,10 @@ La dissolution est prononcée lors d'une assemblée générale extraordinaire co
 [Retour en haut de la page](#top)
 * * *
 Fait à Ermont, le 29 avril 2023
-Signatures\
+Signatures
 
 |Le président|Le secrétaire général|
-|---|---|
+|:---:|:---:|
 |Alain Héléodore ONKANI|Lilian LIKIBI NKOUA|
 
  
@@ -250,8 +250,9 @@ Signatures\
 * * *
 ## ANNEXE <a name="annexe"></a>
 ### Composition du bureau :
+
 |Poste|Membre élu|
-|---|---|
+|:---|:---|
 |Président :|Alain Héléodore ONKANI|
 |Vice-présidente : |Rachel AYOUKA FRAUD|
 |Secrétaire général : |Lilian LIKIBI NKOUA|
