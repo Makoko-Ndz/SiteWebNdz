@@ -238,7 +238,7 @@ La dissolution est prononcée lors d'une assemblée générale extraordinaire co
 
 [Retour en haut de la page](#top)
 * * *
-Fait à Ermont, le 29 avril 2023
+Fait à Ermont, le 29 avril 2023\
 Signatures
 
 |Le président|Le secrétaire général|
