@@ -3,7 +3,6 @@ Layout: page
 Title: Status
 ---
 
-![](:/7a005d93902c42c8b024e1af5ff6806f)
 # STATUTS DE L'ASSOCIATION N'DZOUANA
 
 [TOC] <a name="top"></a>
