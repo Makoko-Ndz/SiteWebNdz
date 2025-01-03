@@ -1,10 +1,9 @@
 ---
 Layout: page
-Title: Statuts
-Autors : Le Bureau
+Title: "Statuts"
+Autors : "Le Bureau"
 output:
-  html_document:
-    toc: TRUE
+    toc: yes
     toc_depth: 5
 ---
 
