@@ -84,6 +84,7 @@ Au cours de cette première réunion, le nouveau membre devra acquitter un droit
   * Le retard de cotisation autorisé est défini par l’assemblée générale ordinaire annuelle, son montant, pour l’année à venir, figure en annexe du [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)
 
 [Retour en haut de la page](#top)
+
 ### <span style="color: #ef6e39">Est membre du groupe folklorique :</span> <a name="danseur"></a>
   * Toute personne ayant adhérée au groupe folklorique de l’association et qui participe régulièrement aux activités de ce groupe.
   * Ces membres sont soumis à une cotisation annuelle, payable en début de chaque année.
@@ -91,17 +92,21 @@ Au cours de cette première réunion, le nouveau membre devra acquitter un droit
   * Les membres du groupe folkloriques ne font pas parti des membres actifs de l’association, ils ne sont, de fait, soumis à aucune cotisation due par les membres actifs de l’association, ne peuvent prendre part à aucun vote de l’association, ni prétendre au bénéfice d’une assistance mutuelle.
 
 [Retour en haut de la page](#top)
+
 ### <span style="color: #ef6e39">Est membre honoraire : </span><a name="honoraire"></a>
   * Tout ancien membre actif qui ne prend plus part à la vie de l’association mais qui du fait de son implication passée mérite d’y laisser une trace.
   * Les membres honoraires peuvent s’ils le souhaitent assister aux réunions et aux manifestations organisées par l’association.
   * Ils sont dispensés de cotisations statutaires, ne peuvent prendre part à aucun vote de l’association, ni ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle.
  
 [Retour en haut de la page](#top)
+
 ### <span style="color: #ef6e39">Est membre d'honneur : </span><a name="honneur"></a>
   * Toute personne qui, par sa sagesse, a rendu ou continue de rendre des services à l'association.
   * Les membres d’honneur sont dispensés de cotisations statutaires et ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle.
   * La durée de leur statut est de 2 ans renouvelable et sera examiné lors de l’assemblée générale ordinaire à chaque date anniversaire.
+
 [Retour en haut de la page](#top)
+
 ### <span style="color: #ef6e39">Est membre bienfaiteur : </span><a name="bienfaiteur"></a>
   * Toute personne physique ou morale qui contribue matériellement, financièrement ou intellectuellement de manière épisodique aux actions de l'association.
   * Les membres bienfaiteurs sont dispensés de cotisations statutaires et ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle. La durée de leur statut est de 2 ans renouvelable et sera examiné lors de l’assemblée générale ordinaire à chaque date anniversaire.
@@ -235,7 +240,8 @@ La dissolution est prononcée lors d'une assemblée générale extraordinaire co
 [Retour en haut de la page](#top)
 * * *
 Fait à Ermont, le 29 avril 2023
-Signatures
+Signatures\
+
 |Le président|Le secrétaire général|
 |---|---|
 |Alain Héléodore ONKANI|Lilian LIKIBI NKOUA|
