@@ -1,11 +1,15 @@
 ---
 Layout: page
 Title: Statuts
+Autors : Le Bureau
+output:
+  html_document:
+    toc: TRUE
+    toc_depth: 5
 ---
 
 # Statuts de l'association
-
-[TOC] <a name="top"></a>
+<a name="top"></a>
 
 *Il est fondé entre les adhérents aux présents statuts et ceux qui y adhéreront ultérieurement une association régie par la loi du 1 juillet 1901 et le décret du 16 Août 1901 modifiés, ayant pour dénomination N'DZOUANA.*
 * * *
