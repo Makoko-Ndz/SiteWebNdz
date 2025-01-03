@@ -34,11 +34,11 @@ L'association est constituée pour une durée illimitée.
 * * *
 ## <span style="color: #ef6e39">Article 4 - 	Composition </span>
 L’association est composée de personnes physiques / morales qui intègrent la structure en qualité de :
-	- De [membres actifs](#membre) ;
-	- De [membres du groupe folklorique](#danseur) ;
-	- De [membres honoraires](#honoraire) ;
-	- De [membres d'honneur](#honneur) ;
-	- De [membres bienfaiteurs](#bienfaiteur).
+  * De [membres actifs](#membre) ;
+  * De [membres du groupe folklorique](#danseur) ;
+  * De [membres honoraires](#honoraire) ;
+  * De [membres d'honneur](#honneur) ;
+  * De [membres bienfaiteurs](#bienfaiteur).
  
 [Retour au sommaire](#top)
 * * *
@@ -73,42 +73,43 @@ Au cours de cette première réunion, le nouveau membre devra acquitter un droit
 * * *
 ## <span style="color: #ef6e39">Article 8 - 	Membres</span>
 ### <span style="color: #ef6e39">Est membre actif :</span> <a name="membre"></a>
-	- Toute personne ayant adhéré à l’association qui s'acquitte de ses cotisations et participe régulièrement aux activités de l'association.
-	- Seuls les membres actifs à jour de cotisations ou n’étant pas en retard de cotisations, au sens définit dans le [règlement intérieur](:/dd1c7140eb5441459f5a595016442bc8), peuvent prendre part aux votes, prétendre au bénéfice d’une prestation à titre gracieux et bénéficier d’une assistance financière.
-	- Tout membre actif est membre du groupe folklorique sans être soumis aux cotisations de ce groupe.
-	- Le retard de cotisation autorisé est défini par l’assemblée générale ordinaire annuelle, son montant, pour l’année à venir, figure en annexe du [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)
+
+  * Toute personne ayant adhéré à l’association qui s'acquitte de ses cotisations et participe régulièrement aux activités de l'association.
+  * Seuls les membres actifs à jour de cotisations ou n’étant pas en retard de cotisations, au sens définit dans le [règlement intérieur](:/dd1c7140eb5441459f5a595016442bc8), peuvent prendre part aux votes, prétendre au bénéfice d’une prestation à titre gracieux et bénéficier d’une assistance financière.
+  * Tout membre actif est membre du groupe folklorique sans être soumis aux cotisations de ce groupe.
+  * Le retard de cotisation autorisé est défini par l’assemblée générale ordinaire annuelle, son montant, pour l’année à venir, figure en annexe du [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)
 
 [Retour au sommaire](#top)
 ### <span style="color: #ef6e39">Est membre du groupe folklorique :</span> <a name="danseur"></a>
-	- Toute personne ayant adhérée au groupe folklorique de l’association et qui participe régulièrement aux activités de ce groupe.
-	- Ces membres sont soumis à une cotisation annuelle, payable en début de chaque année.
-	- Cette cotisation est révisée chaque année, lors de l’assemblée générale ordinaire.
-	- Les membres du groupe folkloriques ne font pas parti des membres actifs de l’association, ils ne sont, de fait, soumis à aucune cotisation due par les membres actifs de l’association, ne peuvent prendre part à aucun vote de l’association, ni prétendre au bénéfice d’une assistance mutuelle.
+  * Toute personne ayant adhérée au groupe folklorique de l’association et qui participe régulièrement aux activités de ce groupe.
+  * Ces membres sont soumis à une cotisation annuelle, payable en début de chaque année.
+  * Cette cotisation est révisée chaque année, lors de l’assemblée générale ordinaire.
+  * Les membres du groupe folkloriques ne font pas parti des membres actifs de l’association, ils ne sont, de fait, soumis à aucune cotisation due par les membres actifs de l’association, ne peuvent prendre part à aucun vote de l’association, ni prétendre au bénéfice d’une assistance mutuelle.
 
 [Retour au sommaire](#top)
 ### <span style="color: #ef6e39">Est membre honoraire : </span><a name="honoraire"></a>
-	- Tout ancien membre actif qui ne prend plus part à la vie de l’association mais qui du fait de son implication passée mérite d’y laisser une trace.
-	- Les membres honoraires peuvent s’ils le souhaitent assister aux réunions et aux manifestations organisées par l’association.
-	- Ils sont dispensés de cotisations statutaires, ne peuvent prendre part à aucun vote de l’association, ni ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle.
+  * Tout ancien membre actif qui ne prend plus part à la vie de l’association mais qui du fait de son implication passée mérite d’y laisser une trace.
+  * Les membres honoraires peuvent s’ils le souhaitent assister aux réunions et aux manifestations organisées par l’association.
+  * Ils sont dispensés de cotisations statutaires, ne peuvent prendre part à aucun vote de l’association, ni ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle.
  
 [Retour au sommaire](#top)
 ### <span style="color: #ef6e39">Est membre d'honneur : </span><a name="honneur"></a>
-	- Toute personne qui, par sa sagesse, a rendu ou continue de rendre des services à l'association.
-	- Les membres d’honneur sont dispensés de cotisations statutaires et ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle.
-	- La durée de leur statut est de 2 ans renouvelable et sera examiné lors de l’assemblée générale ordinaire à chaque date anniversaire.
+  * Toute personne qui, par sa sagesse, a rendu ou continue de rendre des services à l'association.
+  * Les membres d’honneur sont dispensés de cotisations statutaires et ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle.
+  * La durée de leur statut est de 2 ans renouvelable et sera examiné lors de l’assemblée générale ordinaire à chaque date anniversaire.
 [Retour au sommaire](#top)
 ### <span style="color: #ef6e39">Est membre bienfaiteur : </span><a name="bienfaiteur"></a>
-	- Toute personne physique ou morale qui contribue matériellement, financièrement ou intellectuellement de manière épisodique aux actions de l'association.
-	- Les membres bienfaiteurs sont dispensés de cotisations statutaires et ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle. La durée de leur statut est de 2 ans renouvelable et sera examiné lors de l’assemblée générale ordinaire à chaque date anniversaire.
+  * Toute personne physique ou morale qui contribue matériellement, financièrement ou intellectuellement de manière épisodique aux actions de l'association.
+  * Les membres bienfaiteurs sont dispensés de cotisations statutaires et ne peuvent prétendre au bénéfice d’une prestation à titre gracieux, ni à une assistance mutuelle. La durée de leur statut est de 2 ans renouvelable et sera examiné lors de l’assemblée générale ordinaire à chaque date anniversaire.
  
 [Retour au sommaire](#top)
 * * *
 ## <span style="color: #ef6e39">Article 9 - 	Cotisations des membres</span>
 Les cotisations pour les membres actifs sont les suivantes :
-	- Un droit unique d’adhésion ;
-	- Une cotisation annuelle pour les frais de fonctionnement de l’association ;
-	- Une cotisation mensuelle pour le financement des projets de l’association ;
-	- Les cotisations de solidarité pour la contribution au fond d’assistance mutuelle.
+  * Un droit unique d’adhésion ;
+  * Une cotisation annuelle pour les frais de fonctionnement de l’association ;
+  * Une cotisation mensuelle pour le financement des projets de l’association ;
+  * Les cotisations de solidarité pour la contribution au fond d’assistance mutuelle.
 
 Les membres du groupe folklorique de l’association doivent s’acquitter d’une cotisation annuelle pour les frais de fonctionnement de ce groupe.
 Toutes ces cotisations ont un caractère obligatoire.
@@ -126,31 +127,31 @@ La durée du délai de carence est définie dans le [règlement intérieur](:/dd
 * * *
 ## <span style="color: #ef6e39">Article 11 - 	Perte de la qualité de membre</span>
 La qualité de membre se perd par :
-	- Élément de listeLe décès ;
-	* En cas de décès, la qualité de membre s'efface avec la personne.*
-	- La démission donnée par écrit au président de l’association ;
-	- La radiation.
-	*La radiation d’un membre qui s’est rendu responsable d’une faute grave est proposée par le bureau, la décision de radiation revient à l’assemblée générale.
-	Les modalités de la procédure sont définies dans le [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)*
+  * Élément de listeLe décès ;\
+	_En cas de décès, la qualité de membre s'efface avec la personne._
+  * La démission donnée par écrit au président de l’association ;
+  * La radiation.\
+	_La radiation d’un membre qui s’est rendu responsable d’une faute grave est proposée par le bureau, la décision de radiation revient à l’assemblée générale.
+	Les modalités de la procédure sont définies dans le [règlement intérieur.](:/dd1c7140eb5441459f5a595016442bc8)_
  
 [Retour au sommaire](#top)
 * * *
 ## <span style="color: #ef6e39">Article 12 - 	Ressources</span>
 Les ressources de l'association N'DZOUANA comprennent :
-	- Les droits d'adhésion et les cotisations annuelles et mensuelles ; 
-	- Les sommes provenant de la vente de produits par l'association ;
-	- Les sommes provenant des prestations du groupe folklorique de l'association ;
-	- Les subventions Européennes, des États, des Régions, des Départements et des Communes ;
-	- Les divers dons et legs de personnes respectueuses des objectifs poursuivis par l'association N'DZOUANA ;
-	- Les sommes versées dans le cadre d’un partenariat avec toute société ou association.
+  * Les droits d'adhésion et les cotisations annuelles et mensuelles ; 
+  * Les sommes provenant de la vente de produits par l'association ;
+  * Les sommes provenant des prestations du groupe folklorique de l'association ;
+  * Les subventions Européennes, des États, des Régions, des Départements et des Communes ;
+  * Les divers dons et legs de personnes respectueuses des objectifs poursuivis par l'association N'DZOUANA ;
+  * Les sommes versées dans le cadre d’un partenariat avec toute société ou association.
 
 [Retour au sommaire](#top)
 * * *
 ## <span style="color: #ef6e39">Article 13 - 	Bureau</span>
 Le Bureau de l'association N'DZOUANA est élu pour une durée de trois ans et est composé : 
-	- D’un(e) président(e) et d’un(e) vice- président(e) ;
-	- D’un(e) secrétaire général(e) et de au moins un(e) adjoint(e) ou deux au maximum ;
-	- D’un(e) trésorier(ère) et d’un(e) adjoint(e).
+  * D’un(e) président(e) et d’un(e) vice- président(e) ;
+  * D’un(e) secrétaire général(e) et de au moins un(e) adjoint(e) ou deux au maximum ;
+  * D’un(e) trésorier(ère) et d’un(e) adjoint(e).
 
 La liste des membres du bureau figure en [annexe de ce document](#annexe).
 
